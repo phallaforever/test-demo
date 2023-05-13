@@ -3,4 +3,5 @@
 **On it'll describe a _simple website_.**
 >- Home Page
 >- About
->- Blogs.
+>- Blogs
+>-Sign Up
