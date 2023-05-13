@@ -4,4 +4,4 @@
 >- Home Page
 >- About
 >- Blogs
->-Sign Up
+>- Sign-Up
